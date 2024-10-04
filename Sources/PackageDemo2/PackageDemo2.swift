@@ -1,5 +1,5 @@
 public struct PackageDemo2 {
-    public var name: String = "PackageDemo2"
+    public var name: String = "PackageDemo2_3"
     
     public init() { }
     
